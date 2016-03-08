@@ -1,0 +1,18 @@
+{
+  "name": "asteroids",
+  "version": "0.1.0",
+  "description": "Online asteroids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Bruno Simon",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.13.4",
+    "helmet": "^1.1.0",
+    "socket.io": "^1.4.5"
+  }
+}
